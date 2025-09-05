@@ -26,6 +26,13 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+# Blake Konger First CS193 Homework
+
+Things I love about CS193
+- Only one mandatory class a week
+- An optional class where I can get help if needed instead of having to hear another lecture
+- I have many friends in my CS193 class
+- The instructors are absolutely awesome (I'll take the extra credit now)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 

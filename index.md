@@ -26,7 +26,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-# Blake Konger First CS193 Homework
+# Blake Konger's First CS193 Homework
 
 Things I love about CS193
 - Only one mandatory class a week
